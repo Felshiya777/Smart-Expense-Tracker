@@ -2,18 +2,9 @@
 
 A production-ready ML project for your portfolio — tracks daily expenses and uses machine learning to predict overspending and cluster your spending habits.
 
-## 🚀 Live Demo Setup (2 minutes)
+🌐 Live Demo
 
-```bash
-# 1. Clone / create project folder
-mkdir smart-expense-tracker && cd smart-expense-tracker
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-streamlit run app.py
-```
+https://smart-expense-tracker-vcbxjvha4dqrtaajxjbdes.streamlit.app
 
 App opens at → **http://localhost:8501**
 
